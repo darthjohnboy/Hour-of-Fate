@@ -1,2 +1,4 @@
-<Version: 0.51>
+<Version: 0.57a>
+/www/js/plugins.js https://www.dropbox.com/home/0.57a
+/www/data/system.json https://www.dropbox.com/home/0.57a
 <End of Version>
