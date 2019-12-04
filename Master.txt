@@ -7,4 +7,8 @@
 /www/data/system.json https://www.dropbox.com/sh/wkwewnbrgkffm5p/AAAsLHw5Sl6DVeiKlx5xCijoa?dl=0
 <End of Version>
 <Version: 0.57c>
+/www/js/plugins.js https://www.dropbox.com/sh/wv7oc38z62xojdg/AADDOQ_D7Hia2EnU3Z4Nhkr0a?dl=0
+/www/data/MapInfos.json https://www.dropbox.com/sh/wv7oc38z62xojdg/AADDOQ_D7Hia2EnU3Z4Nhkr0a?dl=0
+/www/data/Map046.json https://www.dropbox.com/sh/wv7oc38z62xojdg/AADDOQ_D7Hia2EnU3Z4Nhkr0a?dl=0
+/www/data/system.json https://www.dropbox.com/sh/wv7oc38z62xojdg/AADDOQ_D7Hia2EnU3Z4Nhkr0a?dl=0
 <End of Version>
