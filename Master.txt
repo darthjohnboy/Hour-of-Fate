@@ -12,3 +12,15 @@
 /www/data/Map046.json https://www.dropbox.com/sh/wv7oc38z62xojdg/AADDOQ_D7Hia2EnU3Z4Nhkr0a?dl=0
 /www/data/system.json https://www.dropbox.com/sh/wv7oc38z62xojdg/AADDOQ_D7Hia2EnU3Z4Nhkr0a?dl=0
 <End of Version>
+<Version 0.57d>
+/www/js/plugins.js https://www.dropbox.com/s/2khrbag5oburj48/plugins.js?dl=0
+/www/data/system.json https://www.dropbox.com/s/d2pddvzqrth1mbw/System.json?dl=0
+<End of Version>
+<Version 0.57e>
+/www/js/Plugins.js https://www.dropbox.com/s/qwbufgx9y82zg3t/plugins.js?dl=0
+/www/data/System.json https://www.dropbox.com/s/cvqo64ouk73xn0a/System.json?dl=0
+/www/data/Troops.json https://www.dropbox.com/s/ipyr3xaitbmlzxt/Troops.json?dl=0
+/www/data/MapInfos.json https://www.dropbox.com/s/149xug0qimcxh5s/MapInfos.json?dl=0
+/www/data/Enemies.json https://www.dropbox.com/s/f0y11mpalwrggei/Enemies.json?dl=0
+HoF.exe https://www.dropbox.com/s/2i5v5rdmn7hgg5x/HoF.exe?dl=0
+<End of Version>
